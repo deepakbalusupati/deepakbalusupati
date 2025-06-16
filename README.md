@@ -18,8 +18,6 @@
 
 <h2 align="center">✨ About Me ✨</h2>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif">
-
 - 👨‍💻 Hello! I'm **Deepak**, a Software Engineer who designs and develops scalable APIs, databases, and backend architectures for web applications.
 
 - 🎓 I graduated from **IIT Hyderabad** in 2022 with a degree in Civil Engineering, but my passion for technology led me to pursue a career in software development.
