@@ -28,6 +28,8 @@
 
 - 🎓 I graduated from **IIT Hyderabad** in 2022 with a degree in Civil Engineering, but my passion for technology led me to pursue a career in software development.
 
+- 💼 My expertise includes building REST APIs, database design, backend development, and creating efficient system architectures.
+
 - 🧠 I'm currently learning more about **System Design** & **Cloud Architecture**
 
 - 🌟 I'm a passionate Software Engineer fueled by technology, creativity, and curiosity.
@@ -44,6 +46,46 @@
       <td>
         <strong>B.Tech in Civil Engineering</strong><br>
         IIT Hyderabad (2018 - 2022)
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h2 align="center">🔍 Current Focus 🔍</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">System Design</td>
+      <td align="center">Cloud Architecture</td>
+      <td align="center">Microservices</td>
+      <td align="center">API Security</td>
+    </tr>
+  </table>
+</div>
+
+<h2 align="center">💪 Professional Skills 💪</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Backend_Development-6A5ACD?style=for-the-badge" alt="Backend Development"/>
+        <p>REST API Design, Server Architecture, Database Optimization</p>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Database_Management-6A5ACD?style=for-the-badge" alt="Database Management"/>
+        <p>Schema Design, Query Optimization, Data Modeling</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Problem_Solving-6A5ACD?style=for-the-badge" alt="Problem Solving"/>
+        <p>Algorithmic Thinking, Debugging, Performance Optimization</p>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/System_Architecture-6A5ACD?style=for-the-badge" alt="System Architecture"/>
+        <p>Scalable Systems, Microservices, API Integration</p>
       </td>
     </tr>
   </table>
@@ -100,6 +142,88 @@
   <img src="https://img.shields.io/badge/Unix-FCC624?style=for-the-badge&logo=unix&logoColor=black" alt="Unix"/>
 </p>
 
+<h2 align="center">💻 Development Workflow 💻</h2>
+
+<div align="center">
+  
+```mermaid
+graph TD
+    A["Requirement Analysis"] -->|"Define Scope"| B["System Design"]
+    B -->|"Architecture Planning"| C["Database Design"]
+    C -->|"Schema Creation"| D["API Development"]
+    D -->|"Endpoint Implementation"| E["Testing & Validation"]
+    E -->|"Bug Fixes"| F["Deployment"]
+    F -->|"Monitoring"| G["Maintenance"]
+```
+
+</div>
+
+<h2 align="center">🚀 Featured Projects 🚀</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Dating Website With Matchmaking Algorithm</h3>
+        <p align="center">
+          <a href="https://github.com/deepakbalusupati/Dating-Website-With-Matchmaking-Algorithm" target="_blank">
+            <img src="https://img.shields.io/badge/Code-6A5ACD?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
+          </a>
+        </p>
+        <p>A dating platform featuring a sophisticated matchmaking algorithm that pairs users based on compatibility factors, preferences, and interests.</p>
+        <p><strong>Tech Stack:</strong> JavaScript, Node.js, React, MongoDB</p>
+      </td>
+      <td width="50%">
+        <h3 align="center">IMDb Relational Database REST API</h3>
+        <p align="center">
+          <a href="https://github.com/deepakbalusupati/IMDb-Relational-Database-REST-API" target="_blank">
+            <img src="https://img.shields.io/badge/Code-6A5ACD?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
+          </a>
+        </p>
+        <p>A comprehensive REST API for IMDb data with a well-designed relational database structure, supporting complex queries and data relationships.</p>
+        <p><strong>Tech Stack:</strong> C#, .NET Core, SQL, Swagger</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Online Code Compiler & Debugger</h3>
+        <p align="center">
+          <a href="https://github.com/deepakbalusupati/Online-Code-Compiler-Debugger" target="_blank">
+            <img src="https://img.shields.io/badge/Code-6A5ACD?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
+          </a>
+        </p>
+        <p>A web-based tool that allows users to write, compile, and debug code in multiple programming languages directly in the browser.</p>
+        <p><strong>Tech Stack:</strong> JavaScript, Node.js, Express, Docker</p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Raw Socket Firewall with Packet Inspection</h3>
+        <p align="center">
+          <a href="https://github.com/deepakbalusupati/Raw-Socket-Firewall-with-Packet-Inspection" target="_blank">
+            <img src="https://img.shields.io/badge/Code-6A5ACD?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
+          </a>
+        </p>
+        <p>A network security tool implementing a firewall using raw socket programming with advanced packet inspection capabilities.</p>
+        <p><strong>Tech Stack:</strong> C++, Linux, Networking Protocols</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">ATS Resume Checker</h3>
+        <p align="center">
+          <a href="https://github.com/deepakbalusupati/ATS-Resume-Checker" target="_blank">
+            <img src="https://img.shields.io/badge/Code-6A5ACD?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
+          </a>
+        </p>
+        <p>A tool that analyzes resumes against job descriptions to determine ATS compatibility and provides suggestions for optimization.</p>
+        <p><strong>Tech Stack:</strong> Python, NLP, Machine Learning</p>
+      </td>
+      <td width="50%">
+        <!-- Reserved for future projects -->
+      </td>
+    </tr>
+  </table>
+</div>
+
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
 <div align="center">
@@ -146,9 +270,43 @@
   <img alt="Deepak's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=deepakbalusupati&theme=tokyo-night&hide_border=true" />
 </div>
 
+<h2 align="center">🏆 Achievements & Certifications 🏆</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/System_Design-Expert-6A5ACD?style=for-the-badge" alt="System Design"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/REST_API_Development-Advanced-6A5ACD?style=for-the-badge" alt="REST API Development"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Database_Management-Proficient-6A5ACD?style=for-the-badge" alt="Database Management"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Full_Stack_Development-Skilled-6A5ACD?style=for-the-badge" alt="Full Stack Development"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <h2 align="center">🐍 Contribution Snake 🐍</h2>
 <div align="center">
   <img src="https://raw.githubusercontent.com/mdazfar2/mdazfar2/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
+
+<h2 align="center">👥 Let's Connect & Collaborate 👥</h2>
+
+<div align="center">
+  <p>I'm always open to interesting projects and collaborations. If you're working on something challenging or have an opportunity that matches my skills, feel free to reach out!</p>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/deepak-balusupati-058287357/"><img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+    <a href="mailto:deepakbalusupati.work@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/></a>
+  </p>
 </div>
 
 <div align="center">
